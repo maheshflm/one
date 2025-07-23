@@ -8,7 +8,7 @@
   <groupId>com.mahesh.app</groupId>
   <artifactId>myapp</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>MyApp</name>
   <url>http://example.com</url>
